@@ -21,9 +21,6 @@
   <a href="mailto:julian.jimenezgutierrez00@gmail.com">
     <img src="https://img.shields.io/badge/Email-julian.jimenezgutierrez00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/jvlianjg">
-    <img src="https://img.shields.io/badge/GitHub-jvlianjg-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
@@ -58,7 +55,6 @@ I approach every problem with an **engineering-first mindset**: no over-engineer
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" />
 
 ### Data & Analytics
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -71,7 +67,7 @@ I approach every problem with an **engineering-first mindset**: no over-engineer
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,git,github" />
 
 </p>
 
@@ -117,10 +113,7 @@ Designing and maintaining data architecture solutions for clients across multipl
 | Recognition | Details |
 |-------------|---------|
 | **AI Pipeline Development** | Built a production-grade knowledge extraction pipeline for a Costa Rican think tank using Gemini 2.0 Flash, handling rate limits, retries, and structured JSON output at scale |
-| **Think Tank Impact Research** | Designed two original indices (III & ICI) to quantify the influence of policy publications on Costa Rican public policy |
 | **Parallel Programming** | Implemented Conway's Game of Life with NumPy and vectorized operations; benchmarked performance and generated animated GIF visualizations |
-| **CV Internationalization** | Translated and adapted professional CV from Spanish to English with strict fidelity and DOCX formatting using the `docx` Node.js library |
-| **Accounting AI Localization** | Adapted 25 AI-powered accounting skills to Costa Rica's regulatory environment (NIIF, CONASSIF, Colegio de Contadores Públicos) |
 
 </div>
 
@@ -188,7 +181,6 @@ building:
 exploring:
   - LLM orchestration frameworks (LangChain, LlamaIndex)
   - Data lakehouse architectures
-  - MLOps fundamentals
 
 open_to:
   - Data Engineering roles
