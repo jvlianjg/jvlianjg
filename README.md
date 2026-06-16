@@ -22,11 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jvlianjg&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" /
-  <img src="https://img.shields.io/github/stars/jvlianjg?style=for-the-badge&color=4C1D95&labelColor=1e1e2e&label=STARS" />
-</p>
-
 ---
 
 ## 👤 About Me
