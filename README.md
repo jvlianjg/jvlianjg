@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEAD%20University-Costa%20Rica-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Sc.-Data%20Science%20Engineering-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍-San%20José%2C%20Costa%20Rica-4C1D95?style=for-the-badge" />
 </p>
@@ -24,8 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jvlianjg&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/jvlianjg?style=for-the-badge&color=6D28D9&labelColor=1e1e2e&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=jvlianjg&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" /
   <img src="https://img.shields.io/github/stars/jvlianjg?style=for-the-badge&color=4C1D95&labelColor=1e1e2e&label=STARS" />
 </p>
 
@@ -64,10 +62,12 @@ I approach every problem with an **engineering-first mindset**: no over-engineer
 ### AI / ML & APIs
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20AI%20SDK-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,pycharm&theme=dark" />
 
 </p>
 
