@@ -130,9 +130,7 @@ Designing and maintaining data architecture solutions for clients across multipl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvlianjg&layout=compact&theme=tokyonight&border_color=7C3AED&title_color=8B5CF6&hide_border=false&langs_count=8" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jvlianjg&theme=tokyonight&border=7C3AED&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" />
-</p>
+
 
 ---
 
